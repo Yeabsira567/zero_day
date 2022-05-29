@@ -1,0 +1,3 @@
+* ssh to ubuntu 
+* uname 
+
